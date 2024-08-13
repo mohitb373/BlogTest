@@ -1,0 +1,6 @@
+node_modules/
+Backend/node_modules/
+Frontend/blog-app/node_modules/
+package-lock.json/
+Backend/package-lock.json/
+Frontend/blog-app/package-lock.json/
